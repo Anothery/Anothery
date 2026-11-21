@@ -1,12 +1,8 @@
-## Aleksei Mezhevov
-
-Mobile/Applied AI Engineer
+## Heya! I'm a Mobile/Applied AI Engineer.
 
 <a href="https://sudzuai.tech/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anothery/Anothery/main/assets/flight-dark.gif">
-    <img src="https://raw.githubusercontent.com/Anothery/Anothery/main/assets/flight-light.gif" width="608" alt="Visit my portfolio. A pixel-art ship jumps into a spiral galaxy.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anothery/Anothery/main/assets/jump-dark.gif">
+    <img src="https://raw.githubusercontent.com/Anothery/Anothery/main/assets/jump-light.gif" width="656" alt="Click to explore my portfolio at sudzuai.tech">
   </picture>
 </a>
-
-[Explore my portfolio ↗](https://sudzuai.tech/)
